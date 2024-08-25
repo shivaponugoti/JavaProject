@@ -3,7 +3,7 @@ package leetcode;
 public class thomas {
 
 	public static void main(String[] args) {
-		System.out.println("thomas jeffery");
+		System.out.println("Team work started");
 	}
 
 }
