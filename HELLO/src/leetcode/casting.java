@@ -4,8 +4,9 @@ public class casting {
 
 	public static void main(String[] args) {
 		byte b =125;
-		int a = b;
-		System.out.println(a);
+		int a = 260;
+		int c = (byte)a;
+		System.out.println(c);
 	}
 
 }
